@@ -1,0 +1,46 @@
+# ==== Unity ====
+# Mape koje Unity sam generira i koje NE idu na Git.
+# Library je najvazniji: zna biti nekoliko gigabajta i Unity ga
+# ponovno izgradi iz Assets i ProjectSettings pri prvom otvaranju.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Datoteke rjesenja i projekata koje generiraju IDE-ovi
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.vscode/
+
+# Rezultati builda
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash izvjestaji
+sysinfo.txt
+crashlytics-build.properties
+
+# ==== Operacijski sustav ====
+.DS_Store
+Thumbs.db
+desktop.ini
