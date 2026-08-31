@@ -59,12 +59,7 @@ međurezultata u Scene prozoru: `Draw Map`, `Draw Rooms`, `Draw Graph` i
 
 ## Korišteni materijali
 
-<!-- DOPUNI: za svaki paket navedi naziv, autora, izvor i licencu -->
-
-- Tileset:
-- Likovi i font:
-- Glazba:
-
-## Licenca
-
-<!-- DOPUNI ako želiš dodati licencu za vlastiti kod, npr. MIT -->
+- **Ninja Adventure Asset Pack** — Pixel-Boy i AAA, licenca CC0,
+  https://pixel-boy.itch.io/ninja-adventure-asset-pack
+- **Dungeon Tileset II** — 0x72, licenca CC0,
+  https://0x72.itch.io/dungeontileset-ii
